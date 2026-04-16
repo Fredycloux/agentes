@@ -6,3 +6,4 @@ Skills for browser automation, workflow scripting, task runners, and automated p
 
 | Skill | Safety | Description |
 |-------|--------|-------------|
+| [whatsapp-agentkit](whatsapp-agentkit.md) | [CAUTION] | Constructor de chatbots WhatsApp con IA |

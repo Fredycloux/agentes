@@ -6,3 +6,4 @@ Skills for linting, refactoring, best practices enforcement, and code review wor
 
 | Skill | Safety | Description |
 |-------|--------|-------------|
+| [cyber-neo](cyber-neo.md) | [SAFE] | Auditoría de seguridad OWASP 2025 modo solo-lectura |
